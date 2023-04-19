@@ -1,6 +1,3 @@
-
-> Open this page at [https://drippy-cat.github.io/a1_4_dragonflies/](https://drippy-cat.github.io/a1_4_dragonflies/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
